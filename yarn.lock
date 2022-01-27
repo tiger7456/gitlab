@@ -5368,9 +5368,9 @@ three-stl-loader@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/three-stl-loader/-/three-stl-loader-1.0.4.tgz#6b3319a31e3b910aab1883d19b00c81a663c3e03"
 
-three@^0.84.0:
-  version "0.84.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.84.0.tgz#95be85a55a0fa002aa625ed559130957dcffd918"
+three@^0.137.0:
+  version "0.137.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.137.0.tgz#0ebd6ba66637a332c31f234bcdd35aeec071a6e3"
 
 through@2, through@^2.3.6, through@~2.3, through@~2.3.1:
   version "2.3.8"
